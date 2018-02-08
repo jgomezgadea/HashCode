@@ -16,4 +16,3 @@ class GetData:
 
         matrix = ''
         for x in range(param[0]):
-            
