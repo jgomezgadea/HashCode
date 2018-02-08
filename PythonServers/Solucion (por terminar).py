@@ -4,7 +4,7 @@ import os
 import numpy as np
 import operator
 
-class GetValues: prueba lok
+class GetValues: prueba lo
     def read():
         # Almacenamos el fichero en "file"
         file = open("dc.in", "r")
