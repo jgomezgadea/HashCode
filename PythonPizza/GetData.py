@@ -2,7 +2,6 @@ import sys
 import os
 import numpy as np
 
-# Prueba
 class GetData:
     def read():
         # Variables
