@@ -2,7 +2,6 @@ import sys
 import os
 import numpy as np
 
-#Pene
 class GetData:
     def read():
         # Variables
